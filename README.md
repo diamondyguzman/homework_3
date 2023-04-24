@@ -2,5 +2,4 @@
 Diamond Guzman
 
 #Live Link
-link here
-and here
+https://homework-3-three.vercel.app/
